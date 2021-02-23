@@ -1,0 +1,226 @@
+body {
+  background-color: #e4e6eb;
+  font-family: 'Assistant', sans-serif;
+  color: #071c4d;
+}
+
+.navbar-brand img {
+  margin-left: 20px;
+  max-width: 350px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #071c4d;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+  font-weight: bold;
+  color: #071c4d !important;
+}
+
+.btn-login {
+  background-color: #071C4D;
+  color: #ffffff;
+}
+
+.btn-login:hover {
+  background-color: #2c2094;
+  color: #ffffff;
+}
+
+.btn-more {
+  background-color: #F5647D;
+  color: #ffffff;
+}
+
+.btn-more:hover {
+  background-color: #F196A6;
+  color: #ffffff;
+}
+
+.carousel .carousel-inner {
+  height: 657px;
+  margin-bottom: 20px;
+}
+
+.section-about-us {
+  min-height: 575px;
+  background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#a6a8af));
+  background: linear-gradient(#ffffff 0%, #a6a8af 100%);
+  margin-top: -80px;
+}
+
+.section-about-us .section-about-us-heading {
+  margin-top: 80px;
+  padding-top: 70px;
+}
+
+.section-about-us .section-about-us-heading h2, .section-about-us .section-about-us-heading p {
+  color: #071C4D;
+}
+
+.section-about-us .section-about-us-heading h2 {
+  font-family: 'Playfair Display',serif;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.section-about-us .section-about-us-heading p {
+  padding-top: 30px;
+  text-align: justify;
+  font-size: 18px;
+}
+
+.section-vission h2 {
+  font-family: 'Playfair Display',serif;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.section-vission p {
+  padding-top: 30px;
+  font-style: italic;
+  text-align: justify;
+  font-size: 18px;
+}
+
+.section-mission h2 {
+  font-family: 'Playfair Display',serif;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.section-mission p {
+  padding-top: 30px;
+  font-style: italic;
+  text-align: justify;
+  font-size: 18px;
+}
+
+.section-rewards {
+  background-color: #ffffff;
+  min-height: 575px;
+  padding-top: 70px;
+}
+
+.section-rewards h2 {
+  font-family: 'Playfair Display',serif;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.section-rewards-content {
+  background-color: #ffffff;
+  margin-top: -440px;
+}
+
+.section-rewards-content .section-rewards-images .card-rewards {
+  margin-top: 30px;
+  min-height: 180px;
+  background-color: #fff;
+  color: #fff;
+  padding: 30px;
+  background-size: cover;
+  margin-bottom: 20px;
+}
+
+.section-why-choose-us {
+  margin-top: 70px;
+  background-color: #ffffff;
+}
+
+.section-why-choose-us h2 {
+  font-family: 'Playfair Display',serif;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.section-why-choose-us p {
+  padding-top: 15px;
+  text-align: justify;
+  font-size: 18px;
+}
+
+.section-why-choose-us img {
+  max-width: 100%;
+}
+
+.features {
+  margin-top: 20px;
+}
+
+.features h3 {
+  font-size: 18px;
+  color: #071c4d;
+  margin-bottom: 0;
+  text-align: middle;
+}
+
+.features .description {
+  margin-left: 10px;
+  overflow: hidden;
+  float: left;
+}
+
+.features .features-image {
+  width: 45px;
+  height: 45px;
+  float: left;
+}
+
+.section-our-customers {
+  background-color: #ffffff;
+  min-height: 575px;
+  padding-top: 130px;
+}
+
+.section-our-customers h2 {
+  font-family: 'Playfair Display',serif;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.section-our-customers-content {
+  background-color: #ffffff;
+  margin-top: -370px;
+}
+
+.section-our-customers-content .section-our-customers-images .card-our-customers {
+  margin-top: 30px;
+  min-height: 150px;
+  background-color: #fff;
+  color: #fff;
+  padding: 15px;
+  background-size: cover;
+  margin-bottom: 80px;
+}
+
+.section-footer {
+  background-color: #EFF4FC;
+}
+
+.section-footer h5 {
+  color: #071C4D;
+  font-family: 'Playfair Display',serif;
+  font-weight: bold;
+}
+
+.section-footer img {
+  max-width: 80%;
+}
+
+.section-footer a {
+  color: #071c4d;
+  text-decoration: none;
+}
+
+.section-footer ul img {
+  max-width: 50%;
+}
+
+.container-fluid {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+/*# sourceMappingURL=main.css.map */
