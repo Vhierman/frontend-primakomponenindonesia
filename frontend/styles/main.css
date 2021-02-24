@@ -53,6 +53,7 @@ body {
 .section-about-us .section-about-us-heading {
   margin-top: 80px;
   padding-top: 70px;
+  padding-bottom: 20px;
 }
 
 .section-about-us .section-about-us-heading h2, .section-about-us .section-about-us-heading p {
@@ -99,7 +100,7 @@ body {
 
 .section-rewards {
   background-color: #ffffff;
-  min-height: 575px;
+  min-height: 675px;
   padding-top: 70px;
 }
 
@@ -125,7 +126,6 @@ body {
 }
 
 .section-why-choose-us {
-  margin-top: 70px;
   background-color: #ffffff;
 }
 
@@ -190,9 +190,14 @@ body {
   min-height: 150px;
   background-color: #fff;
   color: #fff;
-  padding: 15px;
-  background-size: cover;
+  max-width: 100%;
   margin-bottom: 80px;
+}
+
+.section-our-customers-content .section-our-customers-images .img-fluid {
+  -ms-flex-item-align: justify;
+      -ms-grid-row-align: justify;
+      align-self: justify;
 }
 
 .section-footer {
